@@ -1,198 +1,194 @@
-Country,"Adj. Default
-              Spread","Equity Risk
-              Premium","Country Risk
-              Premium","Corporate Tax
-              Rate",Moody's rating
-Abu Dhabi,0.49,4.99,0.66,15.0,
-Albania,3.56,9.13,4.8,15.0,
-Algeria,2.98,8.35,4.02,15.0,
-Andorra               (Principality of),1.58,6.46,2.13,18.98,
-Angola,6.44,13.01,8.68,25.0,
-Anguilla,6.01,12.44,8.11,25.23,
-Antigua &               Barbuda,6.01,12.43,8.1,25.23,
-Argentina,11.88,20.35,16.02,35.0,
-Armenia,3.56,9.13,4.8,18.0,
-Aruba,2.18,7.26,2.93,25.0,
-Australia,0.0,4.33,0.0,30.0,
-Austria,0.4,4.86,0.53,24.0,
-Azerbaijan,2.48,7.67,3.34,20.0,
-Bahamas,4.46,10.34,6.01,0.0,
-Bahrain,5.45,11.67,7.34,0.0,
-Bangladesh,5.45,11.67,7.34,30.0,
-Barbados,6.44,13.01,8.68,5.5,
-Belarus,17.5,27.92,23.59,18.0,
-Belgium,0.59,5.13,0.8,25.0,
-Belize,7.43,14.34,10.01,28.53,
-Benin,4.46,10.34,6.01,30.0,
-Bermuda,0.84,5.46,1.13,0.0,
-Bolivia,9.91,17.68,13.35,25.0,
-Bosnia and               Herzegovina,6.44,13.01,8.68,10.0,
-Botswana,1.19,5.93,1.6,22.0,
-Brazil,2.48,7.67,3.34,34.0,
-British Virgin               Islands,6.01,12.44,8.11,25.23,
-Brunei,0.59,5.13,0.8,34.0,
-Bulgaria,1.58,6.46,2.13,10.0,
-Burkina Faso,7.43,14.34,10.01,28.0,
-Cambodia,5.45,11.67,7.34,20.0,
-Cameroon,7.43,14.34,10.01,33.0,
-Canada,0.0,4.33,0.0,26.5,
-Cape Verde,5.45,11.67,7.34,0.0,
-Cayman Islands,0.59,5.13,0.8,0.0,
-Channel               Islands,0.83,5.45,1.12,24.78,
-Chile,0.84,5.46,1.13,27.0,
-China,0.7,5.27,0.94,25.0,
-Colombia,1.89,6.87,2.54,35.0,
-Congo               (Democratic Republicof),6.44,13.01,8.68,30.0,
-Congo               (Republic of),8.92,16.35,12.02,28.0,
-Cook Islands,4.46,10.34,6.01,29.74,
-Costa Rica,3.56,9.13,4.8,30.0,
-Croatia,1.19,5.93,1.6,18.0,
-Cuba,11.88,20.35,16.02,28.53,
-Curaçao,2.18,7.26,2.93,22.0,
-Cyprus,1.19,5.93,1.6,12.5,
-Czech Republic,0.59,5.13,0.8,19.0,
-Denmark,0.0,4.33,0.0,22.0,
-Dominican               Republic,3.56,9.13,4.8,27.0,
-Ecuador,9.91,17.68,13.35,25.0,
-Egypt,7.43,14.34,10.01,22.5,
-El Salvador,6.44,13.01,8.68,30.0,
-Estonia,0.7,5.27,0.94,20.0,
-Ethiopia,8.92,16.35,12.02,30.0,
-Falkland               Islands,3.58,9.15,4.82,31.55,
-Fiji,4.46,10.34,6.01,20.0,
-Finland,0.4,4.86,0.53,20.0,
-France,0.59,5.13,0.8,25.0,
-French Guiana,3.58,9.15,4.82,31.55,
-Gabon,8.92,16.35,12.02,30.0,
-Gambia,4.46,10.34,6.01,30.0,
-Georgia,2.98,8.35,4.02,15.0,
-Germany,0.0,4.33,0.0,30.0,
-Ghana,8.92,16.35,12.02,25.0,
-Gibraltar,0.83,5.45,1.12,24.78,
-Greece,2.48,7.67,3.34,22.0,
-Greenland,0.83,5.45,1.12,24.78,
-Guatemala,2.48,7.67,3.34,25.0,
-Guernsey               (States of),0.7,5.27,0.94,0.0,
-Guinea,8.92,16.35,12.02,0.0,
-Guinea-Bissau,6.44,13.01,8.68,0.0,
-Guyana,1.58,6.46,2.13,0.0,
-Haiti,11.88,20.35,16.02,0.0,
-Honduras,4.46,10.34,6.01,25.0,
-Hong Kong,0.59,5.13,0.8,16.5,
-Hungary,1.89,6.87,2.54,9.0,
-Iceland,0.7,5.27,0.94,20.0,
-India,2.18,7.26,2.93,30.0,
-Indonesia,1.89,6.87,2.54,22.0,
-Iran,6.44,13.01,8.68,22.0,
-Iraq,7.43,14.34,10.01,15.0,
-Ireland,0.59,5.13,0.8,12.5,
-Isle of Man,0.59,5.13,0.8,0.0,
-Israel,1.58,6.46,2.13,23.0,
-Italy,2.18,7.26,2.93,24.0,
-Ivory Coast,2.98,8.35,4.02,25.0,
-Jamaica,4.46,10.34,6.01,25.0,
-Japan,0.7,5.27,0.94,30.62,
-Jersey (States               of),0.49,4.99,0.66,0.0,
-Jordan,3.56,9.13,4.8,20.0,
-Kazakhstan,1.58,6.46,2.13,20.0,
-Kenya,7.43,14.34,10.01,30.0,
-"Korea, D.P.R.",11.88,20.35,16.02,25.0,
-Kuwait,0.7,5.27,0.94,15.0,
-Kyrgyzstan,6.44,13.01,8.68,10.0,
-Laos,9.91,17.68,13.35,26.86,
-Latvia,1.19,5.93,1.6,20.0,
-Lebanon,17.5,27.92,23.59,17.0,
-Liberia,8.92,16.35,12.02,17.0,
-Libya,1.58,6.46,2.13,17.0,
-Liechtenstein,0.0,4.33,0.0,12.5,
-Lithuania,0.84,5.46,1.13,15.0,
-Luxembourg,0.0,4.33,0.0,24.94,
-Macau,0.59,5.13,0.8,26.86,
-Macedonia,3.56,9.13,4.8,10.0,
-Madagascar,5.45,11.67,7.34,10.0,
-Malawi,8.92,16.35,12.02,10.0,
-Malaysia,1.19,5.93,1.6,24.0,
-Maldives,8.92,16.35,12.02,26.86,
-Mali,8.92,16.35,12.02,26.86,
-Malta,0.84,5.46,1.13,35.0,
-Martinique,6.01,12.44,8.11,25.23,
-Mauritius,2.18,7.26,2.93,15.0,
-Mexico,1.89,6.87,2.54,30.0,
-Moldova,6.44,13.01,8.68,12.0,
-Monaco,0.0,4.33,0.0,24.78,
-Mongolia,5.45,11.67,7.34,25.0,
-Montenegro,4.46,10.34,6.01,15.0,
-Montserrat,2.18,7.26,2.93,28.53,
-Morocco,2.48,7.67,3.34,32.0,
-Mozambique,8.92,16.35,12.02,32.0,
-Myanmar,9.91,17.68,13.35,32.0,
-Namibia,4.46,10.34,6.01,32.0,
-Nepal,3.56,9.13,4.8,25.0,
-Netherlands,0.0,4.33,0.0,25.8,
-Netherlands               Antilles,6.01,12.44,8.11,25.23,
-New Zealand,0.0,4.33,0.0,28.0,
-Nicaragua,5.45,11.67,7.34,30.0,
-Niger,9.91,17.68,13.35,26.86,
-Nigeria,7.43,14.34,10.01,30.0,
-Norway,0.0,4.33,0.0,22.0,
-Oman,2.48,7.67,3.34,15.0,
-Pakistan,8.92,16.35,12.02,29.0,
-Palestinian               Authority,17.5,27.92,23.59,17.0,
-Panama,2.18,7.26,2.93,25.0,
-Papua New               Guinea,5.45,11.67,7.34,30.0,
-Paraguay,2.18,7.26,2.93,10.0,
-Peru,1.58,6.46,2.13,29.5,
-Philippines,1.89,6.87,2.54,25.0,
-Poland,0.84,5.46,1.13,19.0,
-Portugal,1.19,5.93,1.6,21.0,
-Qatar,0.49,4.99,0.66,10.0,
-Ras Al Khaimah               (Emirate of),1.19,5.93,1.6,0.0,
-Reunion,1.07,5.77,1.44,25.34,
-Romania,2.18,7.26,2.93,16.0,
-Russia,2.98,8.35,4.02,20.0,
-Rwanda,5.45,11.67,7.34,30.0,
-Saint Lucia,6.01,12.44,8.11,25.23,
-Saudi Arabia,0.59,5.13,0.8,20.0,
-Senegal,4.46,10.34,6.01,30.0,
-Serbia,2.98,8.35,4.02,15.0,
-Sharjah,2.48,7.67,3.34,0.0,
-Sierra Leone,8.92,16.35,12.02,0.0,
-Singapore,0.0,4.33,0.0,17.0,
-Slovakia,1.19,5.93,1.6,21.0,
-Slovenia,1.19,5.93,1.6,19.0,
-Solomon               Islands,7.43,14.34,10.01,30.0,
-Somalia,9.91,17.68,13.35,30.0,
-South Africa,2.98,8.35,4.02,27.0,
-South Korea,0.49,4.99,0.66,25.0,
-Spain,1.58,6.46,2.13,25.0,
-Sri Lanka,11.88,20.35,16.02,24.0,
-St. Maarten,2.98,8.35,4.02,28.53,
-St. Vincent               & the Grenadines,6.44,13.01,8.68,28.53,
-Sudan,17.5,27.92,23.59,28.53,
-Suriname,7.43,14.34,10.01,36.0,
-Swaziland,5.45,11.67,7.34,27.5,
-Sweden,0.0,4.33,0.0,20.6,
-Switzerland,0.0,4.33,0.0,14.6,
-Syria,17.5,27.92,23.59,14.6,
-Taiwan,0.59,5.13,0.8,20.0,
-Tajikistan,6.44,13.01,8.68,18.0,
-Tanzania,4.46,10.34,6.01,30.0,
-Thailand,1.58,6.46,2.13,20.0,
-Togo,6.44,13.01,8.68,26.86,
-Trinidad               &' Tobago,2.98,8.35,4.02,30.0,
-Tunisia,8.92,16.35,12.02,15.0,
-Turkey,4.46,10.34,6.01,25.0,
-Turks &               Caicos Islands,1.58,6.46,2.13,0.0,
-Uganda,6.44,13.01,8.68,30.0,
-Ukraine,11.88,20.35,16.02,18.0,
-United Arab               Emirates,0.49,4.99,0.66,25.0,
-United Kingdom,0.59,5.13,0.8,25.0,
-United States,0.0,4.33,0.0,25.0,
-Uruguay,1.58,6.46,2.13,25.0,
-Uzbekistan,3.56,9.13,4.8,15.0,
-Venezuela,17.5,27.92,23.59,34.0,
-Vietnam,2.98,8.35,4.02,20.0,
-Yemen,11.88,20.35,16.02,20.0,
-Zambia,8.92,16.35,12.02,35.0,
-Zimbabwe,8.92,16.35,12.02,35.0,
+Country,Adj. Default Spread,Equity Risk Premium,Country Risk Premium,Corporate Tax Rate,Moody's rating
+Abu Dhabi,0.49,4.99,0.66,15.0,Aa2
+Albania,3.56,9.13,4.8,15.0,Ba3
+Algeria,2.98,8.35,4.02,15.0,NR
+Andorra               (Principality of),1.58,6.46,2.13,18.98,Baa1
+Angola,6.44,13.01,8.68,25.0,B3
+Anguilla,6.01,12.44,8.11,25.23,NR
+Antigua &               Barbuda,6.01,12.43,8.1,25.23,NR
+Argentina,11.88,20.35,16.02,35.0,Ca
+Armenia,3.56,9.13,4.8,18.0,Ba3
+Aruba,2.18,7.26,2.93,25.0,Baa3
+Australia,0.0,4.33,0.0,30.0,Aaa
+Austria,0.4,4.86,0.53,24.0,Aa1
+Azerbaijan,2.48,7.67,3.34,20.0,Ba1
+Bahamas,4.46,10.34,6.01,0.0,B1
+Bahrain,5.45,11.67,7.34,0.0,B2
+Bangladesh,5.45,11.67,7.34,30.0,B2
+Barbados,6.44,13.01,8.68,5.5,B3
+Belarus,17.5,27.92,23.59,18.0,C
+Belgium,0.59,5.13,0.8,25.0,Aa3
+Belize,7.43,14.34,10.01,28.53,Caa1
+Benin,4.46,10.34,6.01,30.0,B1
+Bermuda,0.84,5.46,1.13,0.0,A2
+Bolivia,9.91,17.68,13.35,25.0,Caa3
+Bosnia and               Herzegovina,6.44,13.01,8.68,10.0,B3
+Botswana,1.19,5.93,1.6,22.0,A3
+Brazil,2.48,7.67,3.34,34.0,Ba1
+British Virgin               Islands,6.01,12.44,8.11,25.23,NR
+Brunei,0.59,5.13,0.8,34.0,NR
+Bulgaria,1.58,6.46,2.13,10.0,Baa1
+Burkina Faso,7.43,14.34,10.01,28.0,Caa1
+Cambodia,5.45,11.67,7.34,20.0,B2
+Cameroon,7.43,14.34,10.01,33.0,Caa1
+Canada,0.0,4.33,0.0,26.5,Aaa
+Cape Verde,5.45,11.67,7.34,0.0,B2
+Cayman Islands,0.59,5.13,0.8,0.0,Aa3
+Channel               Islands,0.83,5.45,1.12,24.78,NR
+Chile,0.84,5.46,1.13,27.0,A2
+China,0.7,5.27,0.94,25.0,A1
+Colombia,1.89,6.87,2.54,35.0,Baa2
+Congo               (Democratic Republicof),6.44,13.01,8.68,30.0,B3
+Congo               (Republic of),8.92,16.35,12.02,28.0,Caa2
+Cook Islands,4.46,10.34,6.01,29.74,B1
+Costa Rica,3.56,9.13,4.8,30.0,Ba3
+Croatia,1.19,5.93,1.6,18.0,A3
+Cuba,11.88,20.35,16.02,28.53,Ca
+Curaçao,2.18,7.26,2.93,22.0,Baa3
+Cyprus,1.19,5.93,1.6,12.5,A3
+Czech Republic,0.59,5.13,0.8,19.0,Aa3
+Denmark,0.0,4.33,0.0,22.0,Aaa
+Dominican               Republic,3.56,9.13,4.8,27.0,Ba3
+Ecuador,9.91,17.68,13.35,25.0,Caa3
+Egypt,7.43,14.34,10.01,22.5,Caa1
+El Salvador,6.44,13.01,8.68,30.0,B3
+Estonia,0.7,5.27,0.94,20.0,A1
+Ethiopia,8.92,16.35,12.02,30.0,Caa2
+Falkland               Islands,3.58,9.15,4.82,31.55,NR
+Fiji,4.46,10.34,6.01,20.0,B1
+Finland,0.4,4.86,0.53,20.0,Aa1
+France,0.59,5.13,0.8,25.0,Aa3
+French Guiana,3.58,9.15,4.82,31.55,NR
+Gabon,8.92,16.35,12.02,30.0,Caa2
+Gambia,4.46,10.34,6.01,30.0,NR
+Georgia,2.98,8.35,4.02,15.0,Ba2
+Germany,0.0,4.33,0.0,30.0,Aaa
+Ghana,8.92,16.35,12.02,25.0,Caa2
+Gibraltar,0.83,5.45,1.12,24.78,NR
+Greece,2.48,7.67,3.34,22.0,Ba1
+Greenland,0.83,5.45,1.12,24.78,NR
+Guatemala,2.48,7.67,3.34,25.0,Ba1
+Guernsey               (States of),0.7,5.27,0.94,0.0,A1
+Guinea,8.92,16.35,12.02,0.0,NR
+Guinea-Bissau,6.44,13.01,8.68,0.0,NR
+Guyana,1.58,6.46,2.13,0.0,NR
+Haiti,11.88,20.35,16.02,0.0,NR
+Honduras,4.46,10.34,6.01,25.0,B1
+Hong Kong,0.59,5.13,0.8,16.5,Aa3
+Hungary,1.89,6.87,2.54,9.0,Baa2
+Iceland,0.7,5.27,0.94,20.0,A1
+India,2.18,7.26,2.93,30.0,Baa3
+Indonesia,1.89,6.87,2.54,22.0,Baa2
+Iran,6.44,13.01,8.68,22.0,NR
+Iraq,7.43,14.34,10.01,15.0,Caa1
+Ireland,0.59,5.13,0.8,12.5,Aa3
+Isle of Man,0.59,5.13,0.8,0.0,Aa3
+Israel,1.58,6.46,2.13,23.0,Baa1
+Italy,2.18,7.26,2.93,24.0,Baa3
+Ivory Coast,2.98,8.35,4.02,25.0,Ba2
+Jamaica,4.46,10.34,6.01,25.0,B1
+Japan,0.7,5.27,0.94,30.62,A1
+Jersey (States               of),0.49,4.99,0.66,0.0,Aa2
+Jordan,3.56,9.13,4.8,20.0,Ba3
+Kazakhstan,1.58,6.46,2.13,20.0,Baa1
+Kenya,7.43,14.34,10.01,30.0,Caa1
+"Korea, D.P.R.",11.88,20.35,16.02,25.0,NR
+Kuwait,0.7,5.27,0.94,15.0,A1
+Kyrgyzstan,6.44,13.01,8.68,10.0,B3
+Laos,9.91,17.68,13.35,26.86,Caa3
+Latvia,1.19,5.93,1.6,20.0,A3
+Lebanon,17.5,27.92,23.59,17.0,C
+Liberia,8.92,16.35,12.02,17.0,NR
+Libya,1.58,6.46,2.13,17.0,NR
+Liechtenstein,0.0,4.33,0.0,12.5,Aaa
+Lithuania,0.84,5.46,1.13,15.0,A2
+Luxembourg,0.0,4.33,0.0,24.94,Aaa
+Macau,0.59,5.13,0.8,26.86,Aa3
+Macedonia,3.56,9.13,4.8,10.0,Ba3
+Madagascar,5.45,11.67,7.34,10.0,NR
+Malawi,8.92,16.35,12.02,10.0,NR
+Malaysia,1.19,5.93,1.6,24.0,A3
+Maldives,8.92,16.35,12.02,26.86,Caa2
+Mali,8.92,16.35,12.02,26.86,Caa2
+Malta,0.84,5.46,1.13,35.0,A2
+Martinique,6.01,12.44,8.11,25.23,NR
+Mauritius,2.18,7.26,2.93,15.0,Baa3
+Mexico,1.89,6.87,2.54,30.0,Baa2
+Moldova,6.44,13.01,8.68,12.0,B3
+Monaco,0.0,4.33,0.0,24.78,Aaa
+Mongolia,5.45,11.67,7.34,25.0,B2
+Montenegro,4.46,10.34,6.01,15.0,B1
+Montserrat,2.18,7.26,2.93,28.53,Baa3
+Morocco,2.48,7.67,3.34,32.0,Ba1
+Mozambique,8.92,16.35,12.02,32.0,Caa2
+Myanmar,9.91,17.68,13.35,32.0,NR
+Namibia,4.46,10.34,6.01,32.0,B1
+Nepal,3.56,9.13,4.8,25.0,Ba3
+Netherlands,0.0,4.33,0.0,25.8,Aaa
+Netherlands               Antilles,6.01,12.44,8.11,25.23,NR
+New Zealand,0.0,4.33,0.0,28.0,Aaa
+Nicaragua,5.45,11.67,7.34,30.0,B2
+Niger,9.91,17.68,13.35,26.86,Caa3
+Nigeria,7.43,14.34,10.01,30.0,Caa1
+Norway,0.0,4.33,0.0,22.0,Aaa
+Oman,2.48,7.67,3.34,15.0,Ba1
+Pakistan,8.92,16.35,12.02,29.0,Caa2
+Palestinian               Authority,17.5,27.92,23.59,17.0,NR
+Panama,2.18,7.26,2.93,25.0,Baa3
+Papua New               Guinea,5.45,11.67,7.34,30.0,B2
+Paraguay,2.18,7.26,2.93,10.0,Baa3
+Peru,1.58,6.46,2.13,29.5,Baa1
+Philippines,1.89,6.87,2.54,25.0,Baa2
+Poland,0.84,5.46,1.13,19.0,A2
+Portugal,1.19,5.93,1.6,21.0,A3
+Qatar,0.49,4.99,0.66,10.0,Aa2
+Ras Al Khaimah               (Emirate of),1.19,5.93,1.6,0.0,A3
+Reunion,1.07,5.77,1.44,25.34,NR
+Romania,2.18,7.26,2.93,16.0,Baa3
+Russia,2.98,8.35,4.02,20.0,NR
+Rwanda,5.45,11.67,7.34,30.0,B2
+Saint Lucia,6.01,12.44,8.11,25.23,NR
+Saudi Arabia,0.59,5.13,0.8,20.0,Aa3
+Senegal,4.46,10.34,6.01,30.0,B1
+Serbia,2.98,8.35,4.02,15.0,Ba2
+Sharjah,2.48,7.67,3.34,0.0,Ba1
+Sierra Leone,8.92,16.35,12.02,0.0,NR
+Singapore,0.0,4.33,0.0,17.0,Aaa
+Slovakia,1.19,5.93,1.6,21.0,A3
+Slovenia,1.19,5.93,1.6,19.0,A3
+Solomon               Islands,7.43,14.34,10.01,30.0,Caa1
+Somalia,9.91,17.68,13.35,30.0,NR
+South Africa,2.98,8.35,4.02,27.0,Ba2
+South Korea,0.49,4.99,0.66,25.0,Aa2
+Spain,1.58,6.46,2.13,25.0,Baa1
+Sri Lanka,11.88,20.35,16.02,24.0,Ca
+St. Maarten,2.98,8.35,4.02,28.53,Ba2
+St. Vincent               & the Grenadines,6.44,13.01,8.68,28.53,B3
+Sudan,17.5,27.92,23.59,28.53,NR
+Suriname,7.43,14.34,10.01,36.0,Caa1
+Swaziland,5.45,11.67,7.34,27.5,B2
+Sweden,0.0,4.33,0.0,20.6,Aaa
+Switzerland,0.0,4.33,0.0,14.6,Aaa
+Syria,17.5,27.92,23.59,14.6,NR
+Taiwan,0.59,5.13,0.8,20.0,Aa3
+Tajikistan,6.44,13.01,8.68,18.0,B3
+Tanzania,4.46,10.34,6.01,30.0,B1
+Thailand,1.58,6.46,2.13,20.0,Baa1
+Togo,6.44,13.01,8.68,26.86,B3
+Trinidad               &' Tobago,2.98,8.35,4.02,30.0,Ba2
+Tunisia,8.92,16.35,12.02,15.0,Caa2
+Turkey,4.46,10.34,6.01,25.0,B1
+Turks &               Caicos Islands,1.58,6.46,2.13,0.0,Baa1
+Uganda,6.44,13.01,8.68,30.0,B3
+Ukraine,11.88,20.35,16.02,18.0,Ca
+United Arab               Emirates,0.49,4.99,0.66,25.0,Aa2
+United Kingdom,0.59,5.13,0.8,25.0,Aa3
+United States,0.0,4.33,0.0,25.0,Aaa
+Uruguay,1.58,6.46,2.13,25.0,Baa1
+Uzbekistan,3.56,9.13,4.8,15.0,Ba3
+Venezuela,17.5,27.92,23.59,34.0,C
+Vietnam,2.98,8.35,4.02,20.0,Ba2
+Yemen,11.88,20.35,16.02,20.0,NR
+Zambia,8.92,16.35,12.02,35.0,Caa2
+Zimbabwe,8.92,16.35,12.02,35.0,NR
 ,,,,,
