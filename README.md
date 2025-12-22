@@ -27,7 +27,7 @@ Un *PER* élevé indique généralement que le marché anticipe une forte de cro
 
 **Grandes entreprises européennes et américaines**
 
-Par souci de concision, nous appelons grandes entreprises europénnes les sociétés cotées sur le continent européen et incluses dans l'indice EuroStoxx 600. De même, sont appelées grandes entreprises américaines les sociétés cotées aux États-Unis et incluses dans le S&P 500.
+Par souci de concision, nous appelons grandes entreprises européennes les sociétés cotées sur le continent européen et incluses dans l'indice EuroStoxx 600. De même, sont appelées grandes entreprises américaines les sociétés cotées aux États-Unis et incluses dans le S&P 500.
 
 Dès lors, notre étude se restreint donc aux 600 plus grosses capitalisations boursières européennes et aux 500 plus grosses capitalisations boursières américaines. 
 
@@ -52,13 +52,13 @@ Nos données proviennent des sources suivantes :
 - DividendMax (pour la liste des tickers de l'EuroStoxx 600);
 - YahooFinance (pour les données financières).
 
-Aucune véritable API gratuite ne permettant de collecter la masse de données nécessaire, nous avons exclusivement eu recours à du *scrapping*. Toutefois, nous avons utilisé une sorte d'API non officielle pour scrapper les données YahooFinance.
+Aucune véritable API gratuite ne permettant de collecter la masse de données nécessaire, nous avons exclusivement eu recours à du *scrapping*. Toutefois, nous avons utilisé une sorte d'API non officielle (*yfinance*) pour scrapper les données YahooFinance.
 
 ## 4. Présentation du dépôt <a name=pres>
 
 Notre rapport est découpé en trois notebooks :
 - Le premier explique notre démarche de collecte et de nettoyage des données : ```clean_and_collect.ipynb```
-- Le deuxième présente notre analyse préliminaire des données : ```exploratory_data_analysis.ipynb``
+- Le deuxième présente notre analyse préliminaire des données : ```exploratory_data_analysis.ipynb```
 - Le troisième expose notre proposition de modélisation explicative : ```modeling.ipynb```
 
 Le dossier ```data``` contient une copie locale des données tirées de nos sources. 
