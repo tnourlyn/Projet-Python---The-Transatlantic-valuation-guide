@@ -56,9 +56,6 @@ Aucune véritable API gratuite ne permettant de collecter la masse de données n
 
 ## 4. Présentation du dépôt <a name=pres>
 
-Notre rapport est découpé en trois notebooks :
-- Le premier explique notre démarche de collecte et de nettoyage des données : ```clean_and_collect.ipynb```
-- Le deuxième présente notre analyse préliminaire des données : ```exploratory_data_analysis.ipynb```
-- Le troisième expose notre proposition de modélisation explicative : ```modeling.ipynb```
-
-Le dossier ```data``` contient une copie locale des données tirées de nos sources. 
+Notre dépôt est segmenté en deux parties :
+- Un dossier ``data``` pour sauvegarder les fichiers csv créés pendant la collecte et le nettoyage des données.
+- Un fichier ```main.ipynb```, qui est le notebook jupyter présentant notre étude.`
